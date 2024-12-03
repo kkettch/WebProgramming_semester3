@@ -27,9 +27,6 @@
 •	Конфигурация управляемых бинов должна быть задана с помощью аннотаций.
 •	Правила навигации между страницами приложения должны быть заданы в отдельном конфигурационном файле.
 
-![image](https://github.com/user-attachments/assets/c611e3b4-6bb8-4caf-943d-51f7fbf86394)
-
-
 ![2024-12-03 15 31 43](https://github.com/user-attachments/assets/b6aec6af-1391-4da1-b322-ae7e51005ae7)
 
 ![2024-12-03 15 31 47](https://github.com/user-attachments/assets/54715eb7-6029-48db-875b-2e500b8b929f)
